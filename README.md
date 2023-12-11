@@ -3,7 +3,9 @@
 
 - 🌱 I’m currently learning **Full Stack Developement with MERN Stack**
 
-- 👨‍💻 Project Portfolio: [https://balavignesh-mca.github.io/my-portfolio-project/](https://balavignesh-mca.github.io/my-portfolio-project/)
+- 👨‍💻 Project Portfolio: [my-portfolio-project](https://balavignesh-mca.github.io/my-portfolio-project/)
+
+- 👨‍💻 Project bad bank: [badbank-balavignesh](https://badbank-balavignesh.netlify.app/)
 
 - 📫 How to reach me: **balavigneshmani13@gmail.com**
 
