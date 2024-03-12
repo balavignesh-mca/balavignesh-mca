@@ -7,7 +7,7 @@
 
 - 👨‍💻 Project bad bank: [badbank-balavignesh](https://badbank-balavignesh.netlify.app/)
   
-- - 👨‍💻 Project Contacts App: [contact-app]([https://badbank-balavignesh.netlify.app/](https://contacts-app-balavignesh.netlify.app/))
+- - 👨‍💻 Project Contacts App: [contact-app]([https://badbank-balavignesh.netlify.app/](https://contacts-app-balavignesh.netlify.app/)
 
 - 📫 How to reach me: **balavigneshmani13@gmail.com**
 
