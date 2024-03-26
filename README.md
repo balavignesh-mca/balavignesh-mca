@@ -7,6 +7,8 @@
 
 - 👨‍💻 Project bad bank: [badbank-balavignesh](https://badbank-balavignesh.netlify.app/)
   
+- 👨‍💻 Project Payroll Management: [PMS-balavignesh](https://pms-client-srv0.onrender.com/)
+  
 - 👨‍💻 Project Contacts App:[contacts-balavignesh](https://contacts-app-balavignesh.netlify.app/)
 
 - 📫 How to reach me: **balavigneshmani13@gmail.com**
