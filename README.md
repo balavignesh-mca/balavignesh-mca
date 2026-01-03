@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bala vignesh M</h1>
 <h3 align="center">A passionate FullStack developer 🚀</h3>
 
-- 🌱 I’m a **MERN Stack Developer**
+- 🌱 I’m an **MERN Stack Developer**
 
 - 👨‍💻 Project Portfolio: [my-portfolio-project](https://balavignesh-mca.github.io/my-portfolio-project/)
 
